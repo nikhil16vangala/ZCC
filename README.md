@@ -1,6 +1,8 @@
 # ZCC
 Zendesk Ticket Viewer
+
 By: Sai Nikhil Vangala
+
 Contact: nikhil16.vangala@gmail.com
 
 README file assists with the installation and usage of the product.
