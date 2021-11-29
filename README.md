@@ -5,7 +5,9 @@ By: Sai Nikhil Vangala
 
 Contact: nikhil16.vangala@gmail.com
 
+
 README file assists with the installation and usage of the product.
+
 
 Ticket Viewer is a CLI product that lets users:
 * Connect to the Zendesk API
