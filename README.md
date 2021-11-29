@@ -44,5 +44,5 @@ Product Installation(Windows Only):
 Running the Product:
 * Open up command line terminal and locate into the root product folder.
 * Compile the product using: javac -cp .\lib\* .\src\Test\*.java .\src\Code\*.java
-* Run the product and execute: java -cp .\lib\*;.\src Code.Menu
+* Run the product and execute: java -cp .\lib\*;.\src Code.Main
 * Perform JUnit Verification: java -cp .\lib\*;.\src Test.MainTest
