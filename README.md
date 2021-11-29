@@ -17,12 +17,9 @@ Ticket Viewer is a CLI product that lets users:
 * Page through tickets when more than 25 are returned
 
 The product includes:
-
-Code files: Main.java, Authentication.java, Json.java, Ticket.java
-
-JUnit Test files: MainTest.java, AuthenticationTest.java, JsonTest.java, TicketTest.java
-
-Java Library Files: hamcrest-core-1.3.jar, javax.xml.blind.jar, json-simple-1.1.1.jar, junit-4.12.java
+* Code files: Main.java, Authentication.java, Json.java, Ticket.java
+* JUnit Test files: MainTest.java, AuthenticationTest.java, JsonTest.java, TicketTest.java
+* Java Library Files: hamcrest-core-1.3.jar, javax.xml.blind.jar, json-simple-1.1.1.jar, junit-4.12.java
 
 Product Installation(Windows Only):
 * Download zipped folder from Github to local computer and extract the file and rename it to your convenience.
